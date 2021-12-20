@@ -1,0 +1,12 @@
+{
+  "name": "CTLG Test NFT",
+  "description": "This is the launch version of the NFT",
+  "image": "https://raw.githubusercontent.com/CarTarL/Testing/main/puzzle.gif",
+  "properties": {
+    "Game": "01",
+    "Start": "01-07-2021 Noon ET",
+    "Twitter": "cartar_l",
+    "Website": "www.cartarl.com"
+  }
+}
+
