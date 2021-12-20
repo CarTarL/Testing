@@ -1,10 +1,6 @@
 {
   "name": "CTLG Test NFT",
-  "description": "This is the launch version of the NFT
-  
-  line 2
-  
-  line 3",
+  "description": "This is the launch version of the NFT\nline2\nline3",
   "image": "https://raw.githubusercontent.com/CarTarL/Testing/main/puzzle.gif"
 }
 
